@@ -1,0 +1,1 @@
+This folder is notes related to the design of the game.
